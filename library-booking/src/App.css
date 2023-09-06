@@ -1,0 +1,75 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh;
+}
+.app {
+  background-image: url("https://images.unsplash.com/photo-1524313118018-d8139913a0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
+}
+
+.header {
+  display: flex;
+  text-align: center;
+  height: 250px;
+  border: solid;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.big-text {
+  width: 400px;
+  height: 350px;
+  border: solid;
+}
+
+.main-section {
+  display: flex;
+  justify-content: space-evenly;
+}
+.left-box {
+  display: flex;
+  border: solid;
+  height: 600px;
+  width: 48%;
+  justify-content: center;
+}
+
+.small-btn {
+  margin-left: 50px;
+  font-size: 20px;
+  background-color: lightgrey;
+  border: solid;
+  height: 30px;
+  width: 100px;
+}
+
+.right-box {
+  display: flex;
+  border: solid;
+  Justify-content: center;
+  height: 600px;
+  width: 48%;
+}
+
+.footer {
+  display: flex;
+  border: solid;
+  flex-direction: column;
+  align-item: center;
+  text-align: center;
+  margin: 10px;
+  height: 200px;
+}
+
+.btn {
+  font-size: 20px;
+  background-color: lightgrey;
+  border: solid;
+  margin: 10px;
+  height: 50px;
+  width: 250px;
+}
+
+.clock-body {
+  
+}
