@@ -4,7 +4,8 @@ main {
   line-height: 100vh;
 }
 .app {
-  background-image: url("https://images.unsplash.com/photo-1524313118018-d8139913a0fa?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80");
+  background-color: #201416;
+  color: white;
 }
 
 .header {
